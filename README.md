@@ -6,4 +6,4 @@ The official code will be released upon paper publication.
 
 ## Publication
 For more details, please refer to our paper:
-* **Mingyuan Meng, Yuxin Xue, Dagan Feng, Lei Bi, and Jinman Kim, "Full-resolution MLPs Empower Medical Dense Prediction," Under Review. [[arXiv]()]**
+* **Mingyuan Meng, Yuxin Xue, Dagan Feng, Lei Bi, and Jinman Kim, "Full-resolution MLPs Empower Medical Dense Prediction," Under Review. [[arXiv](https://arxiv.org/abs/2311.16707)]**
